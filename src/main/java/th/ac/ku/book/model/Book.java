@@ -1,3 +1,4 @@
+// Urawit Jearrajinda 6410106932
 package th.ac.ku.book.model;
 
 import jakarta.persistence.Entity;
